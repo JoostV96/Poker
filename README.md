@@ -7,3 +7,5 @@ After confirming the bet by pressing "enter", the player has to press the space 
 Then, his cards will be hidden and player 2 can take place. When he presses the space bar again, he will see his cards and the game progresses. 
 
 `Poker.py` is the main program. It imports all functions from `HandEvaluator.py` which evaluates each hand. This is used to determine the winner of the pot. 
+
+`Cards.zip` contains all 52 playing cards + an image of the back of a card which are loaded into the program. 
